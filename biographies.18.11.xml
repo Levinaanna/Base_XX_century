@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>А.В. Лёвина</author>
+    <publisher>
+      <name>А.В. Лёвина</name>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">Sandratskaya</idno>
+    <persName>
+      <surname>Сандрацкая</surname>
+      <firstname>Мария</firstname>
+      <patronym>Карловна</patronym>
+    </persName>
+    <nationality code="rus">русский</nationality>
+    <party_membership code="none">ВКП(б)</party_membership>
+    <life_events>
+      <event type="birth" when="1898-__-__">
+        <place>Херсонская губ., г. Одесса</place>
+        <place>г. Ленинград</place>
+      </event>
+      <event type="service" when="1920-__-__">
+        source="https://base.memo.ru/person/show/2934249">
+        <position>женотдел Одесского губкома партии, комиссия ГубЧК по борьбе с беспризорностью</position>
+        <position>III-й секретарь Выборгского райкома, ок. комвуз им.Свердлова</position>
+      </event>
+      <event type="arrest" when="1937-10-09">
+        <place/>
+      </event>
+      <event type="sentence" when="1937-10-09">
+        <sentence>ЧСИР</sentence>
+        <place>В заключении в Томском лагере ЧСИР. Содержалась в г.Томск, в Ахунской ИТК №9 с 1939, в Яйском отделении Сиблага</place>
+        <liberation> when="1947-12-__"
+      </event>
+      <event type="rehabilitation" when="1955-08-13"> </event>
+        <!-- можно сделать закрытый список -->
+      </event>
+    </life_events>
+  </person>
+  <external_sources>
+    <source type="external_database_entry" base="#memo"
+      ref="https://base.memo.ru/person/show/2934249">Запись в базе Межднародного Мемориала</source>
+    <source type="external_database_entry" base="#memo"
+      ref="https://memoirs.memo.ru/memoir/show/id/160"> Запись в каталоге воспоминаний архива "Мемориала"</source>
+  </external_sources>
+</biodes>
+
+<!-- следующая биография -->
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<biodes version="1.0.1">
+  <fileDesc>
+    <title/>
+    <author>А.В. Лёвина</author>
+    <publisher>
+      <name>А.В. Лёвина</name>
+    </publisher>
+  </fileDesc>
+  <person>
+    <idno type="id">Troitsky</idno>
+    <persName>
+      <surname>Троицкий</surname>
+      <firstname>Адриан (Андри\еян)</firstname>
+      <patronym>Александрович</patronym>
+    </persName>
+    <nationality code="rus">русский</nationality>
+    <party_membership code="none">б/п</party_membership>
+    <life_events>
+      <event type="birth" when="1872-06-12">
+        <place>Казанская губерния, Чистопольский уезд, Алексеевский р-н, с. Билярск.</place>
+        <place>г. Чебоксары</place>
+      </event>
+      <event type="service" from="1910-__-__" to="1937-12-28"
+        source="http://www.fond.ru/index.php?psx=4&menu_id=352&menu_parent_id=&name_id=25&person_id=108&flag_view=3">
+        <org>Троицкий храм в селе Михайловском, Царевококшайский уезд, Казанская губерния</org>
+        <rank>Настоятель</rank>
+      <event type="arrest" when="1937-12-28">
+        <place>село Михайловское, Царевококшайский уезд, Казанская губерния</place>
+      </event>
+      <event type="sentence" when="1937-12-28">
+        <sentence>ВМН, создание контрреволюционной группы и обложение прихожан непомерным налогом.</sentence>
+      </event>
+      <event type="execution" when="1938-02-15">
+      <place>Марийская АССР, г. Йошкар-ола</place>
+        <!-- можно сделать закрытый список -->
+      </event>
+    </life_events>
+  </person>
+  <external_sources>
+    <source type="external_database_entry" base="#podvig"
+      ref="http://www.fond.ru/index.php?psx=4&menu_id=352&menu_parent_id=&name_id=25&person_id=108&flag_view=3"> Запись в региональном общественном фонде "Память мученников
+      и исповедников русской православной церкви"</source>
+    <source type="external_database_entry" base="#memo"
+      ref="https://base.memo.ru/person/show/533747">Запись в базе Межднародного Мемориала</source>
+  </external_sources>
+</biodes>
+
+
